@@ -2,5 +2,9 @@
   {
     "package": "gpumetropolis",
     "url": "https://github.com/pcbrom/gpumetropolis"
+  },
+  {
+    "package": "harness",
+    "url": "https://github.com/pcbrom/harness"
   }
 ]
